@@ -1,0 +1,16 @@
+{
+  "$type": "AppBanco.Models.CuentaCredito, AppBanco",
+  "FechaCorte": "15/12/2025",
+  "Tasa": 0.035,
+  "Limite": 10000.0,
+  "Id": 2,
+  "NumeroCliente": "tres",
+  "NombreCliente": "angie",
+  "NumeroCuenta": 1234,
+  "FechaApertura": "15/11/2025",
+  "Saldo": 10000.0,
+  "Movimientos": {
+    "$type": "System.Collections.ObjectModel.ReadOnlyCollection`1[[AppBanco.Models.Movimiento, AppBanco]], mscorlib",
+    "$values": []
+  }
+}

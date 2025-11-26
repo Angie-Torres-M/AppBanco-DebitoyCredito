@@ -1,0 +1,19 @@
+C:\Users\Angie TM\desarrollo\Csharp\Proyecto\AppBanco\AppBanco\bin\Debug\AppBanco.exe.config
+C:\Users\Angie TM\desarrollo\Csharp\Proyecto\AppBanco\AppBanco\bin\Debug\AppBanco.exe
+C:\Users\Angie TM\desarrollo\Csharp\Proyecto\AppBanco\AppBanco\bin\Debug\AppBanco.pdb
+C:\Users\Angie TM\desarrollo\Csharp\Proyecto\AppBanco\AppBanco\obj\Debug\AppBanco.csproj.AssemblyReference.cache
+C:\Users\Angie TM\desarrollo\Csharp\Proyecto\AppBanco\AppBanco\obj\Debug\AppBanco.csproj.CoreCompileInputs.cache
+C:\Users\Angie TM\desarrollo\Csharp\Proyecto\AppBanco\AppBanco\obj\Debug\AppBanco.exe
+C:\Users\Angie TM\desarrollo\Csharp\Proyecto\AppBanco\AppBanco\obj\Debug\AppBanco.pdb
+C:\Users\Angie TM\desarrollo\Csharp\Proyecto\AppBanco\AppBanco\obj\Debug\AppBanco.exe.config
+C:\Users\Angie TM\desarrollo\Csharp\Proyecto\AppBanco - copia\AppBanco\bin\Debug\AppBanco.exe.config
+C:\Users\Angie TM\desarrollo\Csharp\Proyecto\AppBanco - copia\AppBanco\bin\Debug\AppBanco.exe
+C:\Users\Angie TM\desarrollo\Csharp\Proyecto\AppBanco - copia\AppBanco\bin\Debug\AppBanco.pdb
+C:\Users\Angie TM\desarrollo\Csharp\Proyecto\AppBanco - copia\AppBanco\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Angie TM\desarrollo\Csharp\Proyecto\AppBanco - copia\AppBanco\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Angie TM\desarrollo\Csharp\Proyecto\AppBanco - copia\AppBanco\obj\Debug\AppBanco.csproj.AssemblyReference.cache
+C:\Users\Angie TM\desarrollo\Csharp\Proyecto\AppBanco - copia\AppBanco\obj\Debug\AppBanco.exe.config
+C:\Users\Angie TM\desarrollo\Csharp\Proyecto\AppBanco - copia\AppBanco\obj\Debug\AppBanco.csproj.CoreCompileInputs.cache
+C:\Users\Angie TM\desarrollo\Csharp\Proyecto\AppBanco - copia\AppBanco\obj\Debug\AppBanco.csproj.Up2Date
+C:\Users\Angie TM\desarrollo\Csharp\Proyecto\AppBanco - copia\AppBanco\obj\Debug\AppBanco.exe
+C:\Users\Angie TM\desarrollo\Csharp\Proyecto\AppBanco - copia\AppBanco\obj\Debug\AppBanco.pdb
