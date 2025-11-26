@@ -1,6 +1,6 @@
 
 
-# 💳 AppBanco - Débito y Crédito (C# + JSON)
+# AppBanco - Débito y Crédito (C# + JSON)
 
 Aplicación bancaria desarrollada en C# que simula el manejo de cuentas de débito y crédito. Permite realizar depósitos, retiros, pagos, transferencias internas y consultar saldos. Incluye persistencia de datos mediante archivos JSON para mantener el historial entre ejecuciones.
 
